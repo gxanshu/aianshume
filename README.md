@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [rust](https://www.rust-lang.org/)
 
-- 👨‍💻 All of my projects are available at [https://codenanshu.netlify.app/notes](https://codenanshu.in/notes)
+- 👨‍💻 All of my projects are available at [https://codenanshu.in/notes](https://codenanshu.in/notes)
 
-- 📝 I regularly write articles on [https://codenanshu.netlify.app/blog](https://codenanshu.in/blog)
+- 📝 I regularly write articles on [https://codenanshu.in/blog](https://codenanshu.in/blog)
 
 - 💬 Ask me about **react, JavaScript, python**
 
