@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/aianshume" target="blank"><img src="https://img.shields.io/twitter/follow/aianshume?logo=twitter&style=for-the-badge" alt="aianshume" /></a> </p>
 
-- 🔭 I’m currently working on [codeNanshu](https://codenanshu.netlify.app)
+- 🔭 I’m currently working on [codeNanshu](https://codenanshu.in)
 
 - 🌱 I’m currently learning **DSA, rust, python**
 
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [rust](https://www.rust-lang.org/)
 
-- 👨‍💻 All of my projects are available at [https://codenanshu.netlify.app/notes](https://codenanshu.netlify.app/notes)
+- 👨‍💻 All of my projects are available at [https://codenanshu.netlify.app/notes](https://codenanshu.in/notes)
 
-- 📝 I regularly write articles on [https://codenanshu.netlify.app/blog](https://codenanshu.netlify.app/blog)
+- 📝 I regularly write articles on [https://codenanshu.netlify.app/blog](https://codenanshu.in/blog)
 
 - 💬 Ask me about **react, JavaScript, python**
 
 - 📫 How to reach me **aianshume@yahoo.com**
 
-- 📄 Know about my experiences [https://codenanshu.netlify.app](https://codenanshu.netlify.app)
+- 📄 Know about my experiences [https://codenanshu.in](https://codenanshu.in)
 
 - ⚡ Fun fact **I think I am the best**
 
