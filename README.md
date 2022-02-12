@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [codeNanshu](https://codenanshu.in)
 
-- 🌱 I’m currently learning **DSA, rust, python**
+- 🌱 I’m currently learning **DSA, Rust, Python**
 
 - 👯 I’m looking to collaborate on [open source](https://opensource.com)
 
