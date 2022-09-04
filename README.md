@@ -61,8 +61,8 @@
 <p align="center">
 <a href="https://www.codenanshu.in/"><img alt="Website" src="https://img.shields.io/badge/Website-www.codenanshu.in-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/anshu-meena-45a64123b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anshu%20Meena-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.twitter.com/aianshume/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Aianshume__-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:aianshume@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-aianshume@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
