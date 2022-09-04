@@ -36,17 +36,22 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Hugo](https://img.shields.io/badge/-Hugo-333333?style=flat&logo=hugo)
+  
+  - 🔬 &nbsp;
+  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
+  ![Expo](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=expo)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aianshume&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aianshume&theme=buefy&layout=compact" />
 </a>
 
 <br/>
