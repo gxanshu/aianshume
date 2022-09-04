@@ -35,7 +35,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime Text](https://img.shields.io/badge/-Sublime-Text-333333?style=flat&logo=sublimetext)
+  ![Sublime Text](https://img.shields.io/badge/-SublimeText-333333?style=flat&logo=sublimetext)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
