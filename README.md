@@ -24,7 +24,7 @@
   ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -35,12 +35,12 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Sublime Text](https://img.shields.io/badge/-Sublime Text-333333?style=flat&logo=sublimetext)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Hugo](https://img.shields.io/badge/-Hugo-333333?style=flat&logo=hugo)
 
 <br/>
 
