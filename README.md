@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at aianshume@yahoo.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio](https://codenanshu.in) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/aianshume/aianshume/master/assets/Night-Coding.gif" align="right"/>
+<a href="https://app.daily.dev/aianshu"><img src="https://api.daily.dev/devcards/f584f67547ce45a29ea6181725ccbe65.png?r=91q" width="400" alt="Ai Anshu's Dev Card" align="right"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
