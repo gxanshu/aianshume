@@ -1,6 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Anshu
-
-### 👨🏻‍💻 &nbsp;About Me
+## 👋👨🏻‍💻 &nbsp;Hey there! I'm Anshu
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at own my own (self tought).\
